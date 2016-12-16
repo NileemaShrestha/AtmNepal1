@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AtmNepal1</string>
+
+    <string-array name="Bank_List">
+        <item>Himalayan Bank</item>
+        <item>Everest Bank</item>
+        <item>Nepal Rastra Bank</item>
+    </string-array>
+
+    <array name="bank_pictures">
+        <item>@android:drawable/ic_dialog_dialer</item>
+        <item>@android:drawable/ic_dialog_email</item>
+        <item>@android:drawable/ic_dialog_alert</item>
+    </array>
+
+    <!--<array name="profile_pics">-->
+        <!--<item>@drawable/hbl</item>-->
+        <!--<item>@drawable/be</item>-->
+        <!--<item>@drawable/nrb</item>-->
+    <!--</array>-->
+</resources>
